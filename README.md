@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanakinalp&show_icons=true&theme=tokyonight&locale=en" alt="furkanakinalp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanakinalp&theme=dark" alt="furkanakinalp" /></p>
+
+
+![snake gif](https://github.com/FurkanAkinalp/FurkanAkinalp/blob/output/github-contribution-grid-snake.gif)
