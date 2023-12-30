@@ -40,4 +40,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanakinalp&theme=dark" alt="furkanakinalp" /></p>
 
 
-![snake gif](https://github.com/FurkanAkinalp/FurkanAkinalp/blob/output/github-contribution-grid-snake.gif)
