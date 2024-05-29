@@ -1,6 +1,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![MasterHead](https://media.giphy.com/media/l0HFj3iHt8F2rEQnK/giphy.gif)
 <h1 align="center">Hi 👋, I'm Furkan Akınalp</h1>
-<h3 align="center">A passionate Cyber Security from Türkiye</h3>
+<h3 align="center">A passionate Cyber Security from Türkiye. I am currently a 3rd year Computer Engineering student at Konya Technical University and I have had a deep passion for Cyber Security since the very beginning of my academic journey. My dedication to this field has pushed me to focus heavily on Penetration Testing where I am continuously honing my skills. Eager to contribute and learn from real-world cybersecurity challenges, I am enthusiastic about applying my knowledge to protect systems and data. My goal is to become a leading expert in the field by constantly pushing the boundaries of what is possible in Cyber Security.</h3>
 
 - 📫 How to reach me **furkanakinalp@gmail.com**
 
